@@ -8,7 +8,7 @@ disqus:
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'Math Blog', url: 'writing.html'}
+- {name: 'Math Blog', url: 'mathblog.html'}
 # - {name: 'Contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
